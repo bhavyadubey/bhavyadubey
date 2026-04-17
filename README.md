@@ -24,8 +24,7 @@
 
 I build systems that make execution **predictable, scalable, and efficient**.
 
-Most teams don’t struggle with ideas, they struggle with execution.  
-I focus on turning unclear, messy problems into structured workflows, aligning stakeholders, and ensuring programs actually deliver outcomes.
+Most teams don’t struggle with ideas, they struggle with execution. I focus on turning unclear, messy problems into structured workflows, aligning stakeholders, and ensuring programs actually deliver outcomes.
 
 
 ## My Operating System
