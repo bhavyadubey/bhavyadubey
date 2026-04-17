@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Bhavya
 
-<!--
-**bhavyadubey/bhavyadubey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Program Manager at Google, working on Trust & Safety and large-scale execution systems.
 
-Here are some ideas to get you started:
+I specialize in:
+- Turning ambiguity into structured execution
+- Driving cross-functional alignment
+- Building data-backed systems for decision making
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I Work On
+
+- Program execution systems
+- Workflow design & optimization
+- Metrics & dashboarding
+- Process scalability
+
+---
+
+## Featured Work
+
+### Program Execution System
+Designed frameworks to standardize workflows and improve execution efficiency across teams.
+
+### UDWP Tracking System
+Built a structured system for privacy compliance tracking, improving operational efficiency by 25%.
+
+### Metrics & Dashboarding
+Developed KPI systems to track SLAs, quality benchmarks, and program performance.
+
+---
+
+## How I Think
+
+- Systems > Effort  
+- Clarity > Complexity  
+- Execution > Ideas  
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/bhavya-dubey-0b06b516a/
+- Email: bhavyadubey1410@gmail.com
