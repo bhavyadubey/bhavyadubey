@@ -27,32 +27,68 @@ I build systems that make execution **predictable, scalable, and efficient**.
 Most teams don’t struggle with ideas, they struggle with execution. I focus on turning unclear, messy problems into structured workflows, aligning stakeholders, and ensuring programs actually deliver outcomes.
 
 
-## My Operating System
+## 🧠 My Operating System
 
-Ambiguity → Clarity → Alignment → Systems → Execution → Impact
+<p align="center">
+  <b>Ambiguity → Clarity → Alignment → Systems → Execution → Impact</b>
+</p>
 
-- Break complex problems into executable components  
-- Align cross-functional teams without friction  
-- Replace manual coordination with structured systems  
-- Use data to continuously improve performance  
+<br>
 
+<p align="center">
+  ⚙️ Break complexity &nbsp;&nbsp;•&nbsp;&nbsp;
+  🤝 Align teams &nbsp;&nbsp;•&nbsp;&nbsp;
+  🧩 Build systems &nbsp;&nbsp;•&nbsp;&nbsp;
+  📊 Drive with data
+</p>
 
-## What I’ve Built
+---
 
-### 🔹 Execution Systems at Scale
-- Designed workflows to standardize execution across teams  
-- Reduced manual dependencies and coordination overhead  
-- Built operating cadences for consistency  
+## 🏗️ What I’ve Built
 
-### 🔹 Data-Driven Program Systems
-- Defined SLAs, KPIs, and quality benchmarks  
-- Built dashboards for real-time visibility  
-- Enabled data-backed decision making  
+<p align="center">
+<table>
+<tr>
 
-### 🔹 High-Ambiguity Program Delivery
-- Translated unclear goals into structured execution plans  
-- Balanced competing stakeholder priorities  
-- Delivered under tight timelines and uncertainty  
+<td width="30%" valign="top">
+
+<h3>⚙️ Execution Systems</h3>
+
+<p>
+• Standardized workflows<br>
+• Reduced manual dependencies<br>
+• Built operating cadences
+</p>
+
+</td>
+
+<td width="30%" valign="top">
+
+<h3>📊 Data Systems</h3>
+
+<p>
+• Defined SLAs & KPIs<br>
+• Built dashboards<br>
+• Enabled data-driven decisions
+</p>
+
+</td>
+
+<td width="30%" valign="top">
+
+<h3>🔍 High-Ambiguity Delivery</h3>
+
+<p>
+• Structured unclear problems<br>
+• Balanced stakeholders<br>
+• Delivered under pressure
+</p>
+
+</td>
+
+</tr>
+</table>
+</p>
 
 
 ## Featured Technical Projects
