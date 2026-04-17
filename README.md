@@ -42,7 +42,6 @@ Most teams don’t struggle with ideas, they struggle with execution. I focus on
   📊 Drive with data
 </p>
 
----
 
 ## 🏗️ What I’ve Built
 
