@@ -1,6 +1,6 @@
-# Hi, I'm Bhavya 👋
+# Hi, There 👋
 
-🚀 Program Manager at Google | Scaling execution across Trust & Safety systems  
+I am Bhavya a Program Manager at Google | Scaling execution across Trust & Safety systems  
 📊 I turn ambiguity into structured systems, align teams, and drive measurable impact  
 
 ---
