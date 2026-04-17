@@ -1,4 +1,4 @@
-<h1 align="center">Bhavya Dubey 👋</h1>
+<h1 align="center">Bhavya Dubey </h1>
 
 <p align="center">
   <b>Program Manager | Systems Thinker | Execution Operator</b>
@@ -20,7 +20,7 @@
 </p>
 
 
-## ⚡ What I Do
+## What I Do
 
 I build systems that make execution **predictable, scalable, and efficient**.
 
@@ -28,7 +28,7 @@ Most teams don’t struggle with ideas—they struggle with execution.
 I focus on turning unclear, messy problems into structured workflows, aligning stakeholders, and ensuring programs actually deliver outcomes.
 
 
-## 🧠 My Operating System
+## My Operating System
 
 Ambiguity → Clarity → Alignment → Systems → Execution → Impact
 
@@ -38,7 +38,7 @@ Ambiguity → Clarity → Alignment → Systems → Execution → Impact
 - Use data to continuously improve performance  
 
 
-## 🏗️ What I’ve Built
+## What I’ve Built
 
 ### 🔹 Execution Systems at Scale
 - Designed workflows to standardize execution across teams  
@@ -56,7 +56,7 @@ Ambiguity → Clarity → Alignment → Systems → Execution → Impact
 - Delivered under tight timelines and uncertainty  
 
 
-## 📂 Featured Technical Projects
+## Featured Technical Projects
 
 ### 🌫️ RefineDNet – Image Dehazing System  
 *From research → real-world product*
@@ -71,7 +71,7 @@ Ambiguity → Clarity → Alignment → Systems → Execution → Impact
 - Bridged ML research with practical application  
 
 
-### 📈 Sentiment Analysis for Financial Markets  
+### Sentiment Analysis for Financial Markets  
 *Turning noise into signals*
 
 - Processed financial data from Twitter & news sources  
@@ -84,7 +84,7 @@ Ambiguity → Clarity → Alignment → Systems → Execution → Impact
 - Demonstrated real-world NLP application  
 
 
-### ❤️ Heart Disease Prediction System  
+### Heart Disease Prediction System  
 *End-to-end ML system (data → model → UI)*
 
 - MLP model using 14 medical parameters  
@@ -97,7 +97,7 @@ Ambiguity → Clarity → Alignment → Systems → Execution → Impact
 - Applied ML in high-impact domain  
 
 
-## 🧩 What Makes Me Different
+## What Makes Me Different
 
 Most people manage execution.  
 I design systems that make execution scalable.
@@ -107,7 +107,7 @@ Systems > Effort
 Execution > Ideas  
 
 
-## 📊 How I Think About Execution
+## How I Think About Execution
 
 ```mermaid
 flowchart LR
@@ -118,15 +118,15 @@ D --> E[Design Workflow]
 E --> F[Track Execution]
 F --> G[Measure Impact]
 ```
-## 📈 Current Focus
+## Current Focus
 
 Currently focused on building systems that make execution more predictable and scalable:
 
-- ⚙️ Scaling execution across complex, cross-functional environments  
-- 📊 Driving operational efficiency through structured workflows  
-- 📐 Designing data-driven systems for decision-making  
-- 🔍 Bringing clarity to ambiguity in fast-moving environments  
+-  Scaling execution across complex, cross-functional environments  
+-  Driving operational efficiency through structured workflows  
+-  Designing data-driven systems for decision-making  
+-  Bringing clarity to ambiguity in fast-moving environments  
 
 📫 Let’s Connect
 <p align="left"> <a href="https://linkedin.com/in/bhavya-dubey-0b06b516a/"> <img src="https://img.shields.io/badge/LinkedIn-Bhavya%20Dubey-blue?style=flat&logo=linkedin"> </a> <a href="mailto:bhavyadubey96@gmail.com"> <img src="https://img.shields.io/badge/Email-bhavyadubey96@gmail.com-red?style=flat&logo=gmail"> </a> </p>
-<p align="center"> ⭐ If you're building high-impact systems or scaling execution, let's talk. </p> ```
+<p align="center"> ⭐ If you're building high-impact systems or scaling execution, let's talk. </p> 
