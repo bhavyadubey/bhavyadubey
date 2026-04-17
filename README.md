@@ -1,96 +1,121 @@
-# Hi, there 👋
+<h1 align="center">Bhavya Dubey 👋</h1>
 
-I’m a Program Manager with 4+ years of experience designing systems that make execution predictable. I turn ambiguous problems into structured, scalable outcomes.
+<p align="center">
+  <b>Program Manager | Systems Thinker | Execution Operator</b>
+</p>
 
-## About Me
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Turning+ambiguity+into+execution;Designing+systems+that+scale;Aligning+teams+and+driving+impact&center=true&width=500&height=45">
+</p>
 
-I’m a Program Manager with 4+ years of experience leading cross-functional initiatives in high-impact, high-ambiguity environments. At Google, I work across Trust & Safety and Threat Analysis programs where execution is complex, stakeholders are many, and outcomes matter at scale.
+<p align="center">
+  <a href="mailto:bhavyadubey96@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://linkedin.com/in/bhavya-dubey-0b06b516a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Focus-Execution%20%7C%20Systems%20%7C%20Data-black?style=for-the-badge">
+</p>
 
-My work focuses on designing systems that make execution predictable and scalable. Instead of relying on manual coordination, I build structured workflows, define clear ownership, and introduce metrics that bring visibility and accountability across teams.
+---
 
-I operate at the intersection of strategy, operations, and data—translating unclear problems into actionable plans, aligning stakeholders, and driving programs from ambiguity to execution.
+## ⚡ What I Do
+
+I build systems that make execution **predictable, scalable, and efficient**.
+
+Most teams don’t struggle with ideas—they struggle with execution.  
+I focus on turning unclear, messy problems into structured workflows, aligning stakeholders, and ensuring programs actually deliver outcomes.
+
+---
+
+## 🧠 My Operating System
+
+```text
+Ambiguity → Clarity → Alignment → Systems → Execution → Impact
+Break complex problems into executable components
+Align cross-functional teams without friction
+Replace manual coordination with structured systems
+Use data to continuously improve performance
+```
+🏗️ What I’ve Built
+🔹 Execution Systems at Scale
+Designed workflows to standardize execution across teams
+Reduced manual dependencies and coordination overhead
+Built operating cadences for consistency
+🔹 Data-Driven Program Systems
+Defined SLAs, KPIs, and quality benchmarks
+Built dashboards for real-time visibility
+Enabled data-backed decision making
+🔹 High-Ambiguity Program Delivery
+Translated unclear goals into structured execution plans
+Balanced competing stakeholder priorities
+Delivered under tight timelines and uncertainty
+📂 Featured Technical Projects
+🌫️ RefineDNet – Image Dehazing System
+
+From research → real-world product
+
+Hybrid model (DCP + CNNs) for image dehazing
+Perceptual fusion strategy for better output quality
+Built Streamlit app with adjustable intensity (0.1–0.9)
+
+Impact
+
+Improved usability of dehazing systems
+Enabled real-time image processing
+Bridged ML research with practical application
+📈 Sentiment Analysis for Financial Markets
+
+Turning noise into signals
+
+Processed financial data from Twitter & news sources
+Built NLP pipeline for sentiment classification
+Linked sentiment insights with stock trends
+
+Impact
+
+Enabled data-driven insights from unstructured data
+Reduced manual analysis effort
+Demonstrated real-world NLP application
+❤️ Heart Disease Prediction System
+
+End-to-end ML system (data → model → UI)
+
+MLP model using 14 medical parameters
+Processed multiple healthcare datasets
+Built UI using HTML/CSS
+
+Impact
+
+Created accessible predictive healthcare solution
+Demonstrated full system thinking
+Applied ML in high-impact domain
+🧩 What Makes Me Different
+
+Most people manage execution.
+I design systems that make execution scalable.
+
+Clarity > Complexity  
+Systems > Effort  
+Execution > Ideas  
 
 
-## What Makes Me Different
-
-Most programs fail due to unclear execution, not bad ideas.
-
-I specialize in:
-- Designing **execution systems** (not just managing tasks)
-- Driving **cross-functional alignment at scale**
-- Building **data-backed decision frameworks**
-
-
-## What I’ve Done
-
-### 🔹 Scaled Cross-Team Execution @ Google
-- Led programs across Trust & Safety & Threat Analysis  
-- Built structured workflows → reduced manual dependencies  
-- Owned SLAs & quality metrics → improved reliability  
-
-### 🔹 Built Data-Driven Program Systems
-- Designed dashboards to track performance & milestones  
-- Identified bottlenecks → improved turnaround time  
-- Enabled decision-making through real-time metrics  
-
-### 🔹 Delivered in High Ambiguity
-- Translated unclear goals into execution plans  
-- Balanced competing stakeholder priorities  
-- Delivered high-visibility initiatives under tight timelines  
+flowchart LR
+A[Ambiguous Problem] --> B[Break Down Problem]
+B --> C[Define Metrics]
+C --> D[Align Stakeholders]
+D --> E[Design Workflow]
+E --> F[Track Execution]
+F --> G[Measure Impact]
 
 
-
-## Featured Technical Projects
-
-### RefineDNet – Image Dehazing System  
-Built a two-stage weakly supervised dehazing framework combining prior-based (DCP) and deep learning methods (CNNs).
-
-**What I Did**
-- Designed a hybrid model to improve image visibility without requiring paired training data  
-- Implemented perceptual fusion strategy to enhance output quality  
-- Built a **Streamlit web app** to dehaze images with adjustable intensity (0.1–0.9)  
-
-**Impact**
-- Improved real-world usability of dehazing models  
-- Enabled interactive image processing via UI  
-- Demonstrated ability to bridge research → usable product  
-
-
-### Sentiment Analysis for Financial Markets  
-Developed a system to predict stock trends using sentiment analysis on news and Twitter data.
-
-**What I Did**
-- Collected and processed real-time financial text data (e.g., NIFTY 50 sources)  
-- Built NLP pipeline to classify sentiment (positive/negative/neutral)  
-- Linked sentiment signals with stock price trends  
-
-**Impact**
-- Enabled data-driven insights from unstructured financial data  
-- Reduced manual analysis effort through automation  
-- Demonstrated real-world application of NLP in decision-making systems  
-
-
-### Heart Disease Prediction System  
-Built a predictive system using machine learning to assess heart disease risk based on patient data.
-
-**What I Did**
-- Used Multilayer Perceptron (MLP) with 14 medical parameters  
-- Cleaned and processed healthcare datasets (Cleveland, Hungarian, Long Beach)  
-- Developed a simple UI using HTML/CSS for user interaction  
-
-**Impact**
-- Created an accessible, low-cost predictive solution for healthcare use  
-- Demonstrated end-to-end system design: data → model → interface  
-- Highlighted application of ML in real-world, high-impact domains  
-
-
-## How I Think
-Clarity > Complexity
-Systems > Effort
-Execution > Ideas
-
-
-## 📫 Let’s Connect
-
-- 💼 LinkedIn: https://linkedin.com/in/bhavya-dubey-0b06b516a/?skipRedirect=true  
-- 📧 Email: bhavyadubey96@gmail.com  
+📈 Current Focus
+Scaling execution systems
+Improving operational efficiency
+Designing data-driven workflows
+Building clarity in ambiguous environments
+📫 Let’s Connect
+<p align="left"> <a href="https://linkedin.com/in/bhavya-dubey-0b06b516a/"> <img src="https://img.shields.io/badge/LinkedIn-Bhavya%20Dubey-blue?style=flat&logo=linkedin"> </a> <a href="mailto:bhavyadubey96@gmail.com"> <img src="https://img.shields.io/badge/Email-bhavyadubey96@gmail.com-red?style=flat&logo=gmail"> </a> </p>
+<p align="center"> ⭐ If you're building high-impact systems or scaling execution, let's talk. </p> ```
