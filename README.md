@@ -1,8 +1,6 @@
-# Hi, There 👋
+# Hi, there 👋
 
-I am Program Manager at Google | Scaling execution across Trust & Safety systems  
-📊 I turn ambiguity into structured systems, align teams, and drive measurable impact  
-
+I’m a Program Manager with 4+ years of experience designing systems that make execution predictable. I turn ambiguous problems into structured, scalable outcomes.
 
 ## About Me
 
