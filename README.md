@@ -107,12 +107,6 @@ Ambiguity → Clarity → Alignment → Systems → Execution → Impact
 ### Heart Disease Prediction System  
 *End-to-end ML system (data → model → UI)*
 
-<p align="center">
-  <img src="./health-ui.png" width="70%">
-</p>
-
-<p align="center"><i>Prediction interface for patient inputs</i></p>
-
 - MLP model using 14 medical parameters  
 - Processed multiple healthcare datasets  
 - Built UI using HTML/CSS  
