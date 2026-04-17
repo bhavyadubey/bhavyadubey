@@ -3,7 +3,6 @@
 I am Bhavya a Program Manager at Google | Scaling execution across Trust & Safety systems  
 📊 I turn ambiguity into structured systems, align teams, and drive measurable impact  
 
----
 
 ## ⚡ What Makes Me Different
 
@@ -14,7 +13,6 @@ I specialize in:
 - Driving **cross-functional alignment at scale**
 - Building **data-backed decision frameworks**
 
----
 
 ## 🏗️ What I’ve Done
 
@@ -33,7 +31,6 @@ I specialize in:
 - Balanced competing stakeholder priorities
 - Delivered high-visibility initiatives under tight timelines
 
----
 
 ## 📂 Featured Projects
 
@@ -46,7 +43,6 @@ Designed a privacy compliance tracking system → improved efficiency by 25%.
 ### 📊 Program Metrics Dashboard
 Built KPI systems to track SLAs, quality benchmarks, and performance.
 
----
 
 ## 🧠 How I Think
 
