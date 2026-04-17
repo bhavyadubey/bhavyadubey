@@ -41,20 +41,8 @@ I specialize in:
 - Delivered high-visibility initiatives under tight timelines  
 
 
-## 📂 Featured Projects
 
-### Program Execution System  
-A framework to standardize workflows, improve accountability, and scale execution across teams.
-
-### UDWP Tracking System  
-Designed a privacy compliance tracking system → improved efficiency by 25%.
-
-### Program Metrics Dashboard  
-Built KPI systems to track SLAs, quality benchmarks, and performance.
-
----
-
-## 🎓 Technical Projects
+## Featured Technical Projects
 
 ### RefineDNet – Image Dehazing System  
 Built a two-stage weakly supervised dehazing framework combining prior-based (DCP) and deep learning methods (CNNs).
