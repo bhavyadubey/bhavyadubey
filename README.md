@@ -24,7 +24,7 @@
 
 I build systems that make execution **predictable, scalable, and efficient**.
 
-Most teams don’t struggle with ideas—they struggle with execution.  
+Most teams don’t struggle with ideas, they struggle with execution.  
 I focus on turning unclear, messy problems into structured workflows, aligning stakeholders, and ensuring programs actually deliver outcomes.
 
 
@@ -58,7 +58,7 @@ Ambiguity → Clarity → Alignment → Systems → Execution → Impact
 
 ## Featured Technical Projects
 
-### 🌫️ RefineDNet – Image Dehazing System  
+### RefineDNet – Image Dehazing System  
 *From research → real-world product*
 
 - Hybrid model (DCP + CNNs) for image dehazing  
@@ -129,4 +129,4 @@ Currently focused on building systems that make execution more predictable and s
 
 📫 Let’s Connect
 <p align="left"> <a href="https://linkedin.com/in/bhavya-dubey-0b06b516a/"> <img src="https://img.shields.io/badge/LinkedIn-Bhavya%20Dubey-blue?style=flat&logo=linkedin"> </a> <a href="mailto:bhavyadubey96@gmail.com"> <img src="https://img.shields.io/badge/Email-bhavyadubey96@gmail.com-red?style=flat&logo=gmail"> </a> </p>
-<p align="center"> ⭐ If you're building high-impact systems or scaling execution, let's talk. </p> 
+<p align="center"> ⭐ If you're building high-impact systems or scaling execution, let's talk.⭐ </p> 
