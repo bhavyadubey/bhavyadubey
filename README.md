@@ -41,16 +41,63 @@ I specialize in:
 - Delivered high-visibility initiatives under tight timelines  
 
 
-## Featured Projects
+## 📂 Featured Projects
 
 ### Program Execution System  
-A framework to standardize workflows, improve accountability, and scale execution.
+A framework to standardize workflows, improve accountability, and scale execution across teams.
 
 ### UDWP Tracking System  
 Designed a privacy compliance tracking system → improved efficiency by 25%.
 
-###  Program Metrics Dashboard  
+### Program Metrics Dashboard  
 Built KPI systems to track SLAs, quality benchmarks, and performance.
+
+---
+
+## 🎓 Technical Projects
+
+### RefineDNet – Image Dehazing System  
+Built a two-stage weakly supervised dehazing framework combining prior-based (DCP) and deep learning methods (CNNs).
+
+**What I Did**
+- Designed a hybrid model to improve image visibility without requiring paired training data  
+- Implemented perceptual fusion strategy to enhance output quality  
+- Built a **Streamlit web app** to dehaze images with adjustable intensity (0.1–0.9)  
+
+**Impact**
+- Improved real-world usability of dehazing models  
+- Enabled interactive image processing via UI  
+- Demonstrated ability to bridge research → usable product  
+
+---
+
+### Sentiment Analysis for Financial Markets  
+Developed a system to predict stock trends using sentiment analysis on news and Twitter data.
+
+**What I Did**
+- Collected and processed real-time financial text data (e.g., NIFTY 50 sources)  
+- Built NLP pipeline to classify sentiment (positive/negative/neutral)  
+- Linked sentiment signals with stock price trends  
+
+**Impact**
+- Enabled data-driven insights from unstructured financial data  
+- Reduced manual analysis effort through automation  
+- Demonstrated real-world application of NLP in decision-making systems  
+
+---
+
+### Heart Disease Prediction System  
+Built a predictive system using machine learning to assess heart disease risk based on patient data.
+
+**What I Did**
+- Used Multilayer Perceptron (MLP) with 14 medical parameters  
+- Cleaned and processed healthcare datasets (Cleveland, Hungarian, Long Beach)  
+- Developed a simple UI using HTML/CSS for user interaction  
+
+**Impact**
+- Created an accessible, low-cost predictive solution for healthcare use  
+- Demonstrated end-to-end system design: data → model → interface  
+- Highlighted application of ML in real-world, high-impact domains  
 
 
 ## How I Think
