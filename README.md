@@ -55,7 +55,6 @@ Built a two-stage weakly supervised dehazing framework combining prior-based (DC
 - Enabled interactive image processing via UI  
 - Demonstrated ability to bridge research → usable product  
 
----
 
 ### Sentiment Analysis for Financial Markets  
 Developed a system to predict stock trends using sentiment analysis on news and Twitter data.
@@ -70,7 +69,6 @@ Developed a system to predict stock trends using sentiment analysis on news and 
 - Reduced manual analysis effort through automation  
 - Demonstrated real-world application of NLP in decision-making systems  
 
----
 
 ### Heart Disease Prediction System  
 Built a predictive system using machine learning to assess heart disease risk based on patient data.
