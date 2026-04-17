@@ -60,31 +60,58 @@ Ambiguity → Clarity → Alignment → Systems → Execution → Impact
 ### RefineDNet – Image Dehazing System  
 *From research → real-world product*
 
-- Hybrid model (DCP + CNNs) for image dehazing  
-- Perceptual fusion strategy for better output quality  
-- Built Streamlit app with adjustable intensity (0.1–0.9)  
+<p align="center">
+  <img src="./dehazing-before.png" width="45%">
+  <img src="./dehazing-after.png" width="45%">
+</p>
+
+<p align="center"><i>Before vs After Dehazing</i></p>
+
+<p align="center">
+  <img src="./streamlit-ui.png" width="70%">
+</p>
+
+<p align="center"><i>Interactive Streamlit Interface</i></p>
+
+- Hybrid model (DCP + CNNs)  
+- Perceptual fusion strategy for improved outputs  
+- Built Streamlit app with adjustable intensity  
 
 **Impact**
 - Improved usability of dehazing systems  
 - Enabled real-time image processing  
-- Bridged ML research with practical application  
+- Bridged ML research → practical product  
 
+---
 
 ### Sentiment Analysis for Financial Markets  
 *Turning noise into signals*
 
-- Processed financial data from Twitter & news sources  
+<p align="center">
+  <img src="./dashboard.png" width="70%">
+</p>
+
+<p align="center"><i>Sample sentiment-to-market insights visualization</i></p>
+
+- Processed financial data from Twitter & news  
 - Built NLP pipeline for sentiment classification  
 - Linked sentiment insights with stock trends  
 
 **Impact**
-- Enabled data-driven insights from unstructured data  
+- Enabled data-driven insights  
 - Reduced manual analysis effort  
-- Demonstrated real-world NLP application  
+- Applied NLP to real-world decision systems  
 
+---
 
 ### Heart Disease Prediction System  
 *End-to-end ML system (data → model → UI)*
+
+<p align="center">
+  <img src="./health-ui.png" width="70%">
+</p>
+
+<p align="center"><i>Prediction interface for patient inputs</i></p>
 
 - MLP model using 14 medical parameters  
 - Processed multiple healthcare datasets  
