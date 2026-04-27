@@ -1,4 +1,4 @@
-<h1 align="center">Bhavya Dubey </h1>
+<h1 align="center"> Bhavya Dubey </h1>
 
 <p align="center">
   <b>I design systems that make execution actually work.</b>
@@ -29,6 +29,14 @@
    Execution over ideas
 </p>
 
+## What You’ll Find Here
+
+- Systems & execution frameworks  
+- Real-world program management case studies  
+- Data-driven workflows & tools  
+- Practical ways to scale operations  
+
+Follow if you care about execution that actually works.
 
 ## What I Do
 
@@ -93,63 +101,180 @@ Most teams don’t struggle with ideas, they struggle with execution. I focus on
 
 ## Featured Technical Projects
 
-### RefineDNet – Image Dehazing System  
-*From research → real-world product*
+1. RefineDNet
+2. Sentiment Analysis
+3. Heart Disease
+
+---
+
+## RefineDNet – Image Dehazing System  
+<p><i>From poor visibility → clear vision → usable systems</i></p>
+
+<br>
 
 <p align="center">
-  <img src="./dehazing-before.png" width="45%">
+  <img src="./dehazing-demo.gif" width="600"/>
 </p>
 
-<p align="center"><i>Before vs After Dehazing</i></p>
-
 <p align="center">
-  <img src="./streamlit-ui.png" width="70%">
+  <img src="./streamlit-ui.png" width="500"/>
 </p>
 
 <p align="center"><i>Interactive Streamlit Interface</i></p>
 
-- Hybrid model (DCP + CNNs)  
-- Perceptual fusion strategy for improved outputs  
-- Built Streamlit app with adjustable intensity  
+<br>
 
-**Impact**
-- Improved usability of dehazing systems  
-- Enabled real-time image processing  
-- Bridged ML research → practical product  
+### The Problem
+
+In real-world environments autonomous driving, surveillance, vision systems **haze destroys visibility.** Traditional methods try to fix this using assumptions. Deep learning methods need **paired data** (which is rare).
+
+So the real question was:
+
+> Can we remove haze **without perfect training data**?
+
+
+### What I Built
+
+A **two-stage dehazing system** combining:
+- Prior-based method (**DCP**) for initial restoration  
+- Learning-based model (**CNNs**) for refinement
+  
+Then i added a **perceptual fusion strategy** to improve realism.
+
+### What Happens Next?
+
+- Input image → heavily distorted by haze  
+- Stage 1 → restores basic visibility  
+- Stage 2 → refines structure & realism  
+- Fusion → enhances perceptual quality  
+
+Hence the image becomes **clear enough for real-world use**
+
+### Product Layer (Not Just a Model)
+
+Instead of stopping at the model, I built:
+
+- A **Streamlit web app**  
+- Upload `.png/.jpeg` images  
+- Adjust dehazing intensity (0.1 → 0.9)  
+- Get real-time processed output  
+
+
+### The Outcome
+
+- Removed dependency on paired training datasets  
+- Improved real-world usability of dehazing systems  
+- Transformed research → interactive product 
 
 ---
 
-### Sentiment Analysis for Financial Markets  
-*Turning noise into signals*
+## Sentiment Analysis for Financial Markets  
+<p><i> From noisy opinions → structured signals → market insight</i></p>
+
+<br>
 
 <p align="center">
-  <img src="./dashboard.png" width="70%">
+  <img src="./dashboard.png" width="500"/>
 </p>
 
-<p align="center"><i>Sample sentiment-to-market insights visualization</i></p>
+<p align="center"><i>How unstructured sentiment becomes actionable insight</i></p>
 
-- Processed financial data from Twitter & news  
-- Built NLP pipeline for sentiment classification  
-- Linked sentiment insights with stock trends  
+<br>
 
-**Impact**
-- Enabled data-driven insights  
-- Reduced manual analysis effort  
-- Applied NLP to real-world decision systems  
+### The Problem
+
+Financial markets react not just to numbers but also to **perception**. News articles, tweets, and opinions constantly influence price movements.  
+But this data is:
+- Unstructured  
+- Noisy  
+- Impossible to analyze manually at scale  
+
+So the real question is:
+
+> Can sentiment be transformed into a **reliable signal for market trends**?
+
+### What I Built
+
+A **data pipeline that converts text → sentiment → signals**, which works as follows:
+
+- Collected financial data from Twitter & news sources (NIFTY 50 ecosystem)  
+- Built an NLP pipeline to classify sentiment (positive / negative / neutral)  
+- Linked sentiment patterns with stock price behavior  
+
+### What Happens Next?
+
+- Raw tweets & news → cleaned and structured  
+- Sentiment extracted across multiple sources  
+- Signals aggregated over time  
+- Compared against market movements
+ 
+Then patterns start emerging between **public sentiment and price trends**
+
+### The Insight:
+
+What looks like random noise, starts behaving like **early indicators**.
+
+Not perfect predictions but directional signals that:
+- Highlight momentum  
+- Surface market sentiment shifts  
+- Support data-backed decisions  
+
+### The Outcome:
+
+- Reduced manual effort in analyzing financial sentiment  
+- Converted unstructured text into usable signals  
+- Demonstrated real-world application of NLP in decision systems 
 
 ---
 
-### Heart Disease Prediction System  
-*End-to-end ML system (data → model → UI)*
+## Heart Disease Prediction System  
+<p><i>From patient data → predictive insight → early intervention</i></p>
 
-- MLP model using 14 medical parameters  
-- Processed multiple healthcare datasets  
-- Built UI using HTML/CSS  
+### The Problem
 
-**Impact**
-- Created accessible predictive healthcare solution  
-- Demonstrated full system thinking  
-- Applied ML in high-impact domain  
+Cardiovascular diseases remain one of the leading causes of death globally.
+Early detection can save lives—but:
+- Diagnosis often requires time and expert evaluation  
+- Data exists, but is underutilized  
+- Many systems are expensive or complex  
+
+So the real question was:
+
+> Can we use patient data to **predict risk early and accessibly**?
+
+### What I Built
+
+An **end-to-end machine learning system**:
+
+- Used a Multilayer Perceptron (MLP) model  
+- Trained on multiple healthcare datasets:
+  - Cleveland  
+  - Hungarian  
+  - Long Beach  
+- Processed 14 key medical parameters:
+  - Age, BP, Cholesterol, etc.  
+
+Then built a **simple UI using HTML/CSS** to make it usable.
+
+### What Happens Next?
+
+- Patient inputs medical parameters  
+- Model processes historical patterns  
+- Risk prediction is generated instantly  
+
+After which data turns into **early warning signals**
+
+### The Insight
+
+Prediction alone isn’t valuable **accessibility is**.
+
+A model sitting in a notebook doesn’t help. A simple interface that anyone can use does.
+
+### The Outcome
+
+- Created a low-cost, accessible prediction system  
+- Demonstrated full pipeline: data → model → interface  
+- Showed how ML can be applied in high-impact domains
 
 
 ## What Makes Me Different
