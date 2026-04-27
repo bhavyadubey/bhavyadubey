@@ -1,7 +1,11 @@
 <h1 align="center">Bhavya Dubey </h1>
 
 <p align="center">
-  <b>Program Manager | Systems Thinker | Execution Operator</b>
+  <b>I design systems that make execution actually work.</b>
+</p>
+
+<p align="center">
+  Program Manager • Systems Thinker • Execution Operator
 </p>
 
 <p align="center">
@@ -19,6 +23,12 @@
   <img src="https://img.shields.io/badge/Focus-Execution%20%7C%20Systems%20%7C%20Data-black?style=for-the-badge">
 </p>
 
+<p align="center">
+   Systems over chaos &nbsp;&nbsp;•&nbsp;&nbsp;
+   Data over guesswork &nbsp;&nbsp;•&nbsp;&nbsp;
+   Execution over ideas
+</p>
+
 
 ## What I Do
 
@@ -33,17 +43,8 @@ Most teams don’t struggle with ideas, they struggle with execution. I focus on
   <b>Ambiguity → Clarity → Alignment → Systems → Execution → Impact</b>
 </p>
 
-<br>
 
-<p align="center">
-  ⚙️ Break complexity &nbsp;&nbsp;•&nbsp;&nbsp;
-  🤝 Align teams &nbsp;&nbsp;•&nbsp;&nbsp;
-  🧩 Build systems &nbsp;&nbsp;•&nbsp;&nbsp;
-  📊 Drive with data
-</p>
-
-
-## 🏗️ What I’ve Built
+##  What I’ve Built
 
 <p align="center">
 <table>
@@ -63,7 +64,7 @@ Most teams don’t struggle with ideas, they struggle with execution. I focus on
 
 <td width="30%" valign="top">
 
-<h3>📊 Data Systems</h3>
+<h3> Data Systems</h3>
 
 <p>
 • Defined SLAs & KPIs<br>
@@ -75,7 +76,7 @@ Most teams don’t struggle with ideas, they struggle with execution. I focus on
 
 <td width="30%" valign="top">
 
-<h3>🔍 High-Ambiguity Delivery</h3>
+<h3> High-Ambiguity Delivery</h3>
 
 <p>
 • Structured unclear problems<br>
@@ -97,7 +98,6 @@ Most teams don’t struggle with ideas, they struggle with execution. I focus on
 
 <p align="center">
   <img src="./dehazing-before.png" width="45%">
-  <img src="./dehazing-after.png" width="45%">
 </p>
 
 <p align="center"><i>Before vs After Dehazing</i></p>
@@ -182,6 +182,24 @@ Currently focused on building systems that make execution more predictable and s
 -  Designing data-driven systems for decision-making  
 -  Bringing clarity to ambiguity in fast-moving environments  
 
-📫 Let’s Connect
-<p align="left"> <a href="https://linkedin.com/in/bhavya-dubey-0b06b516a/"> <img src="https://img.shields.io/badge/LinkedIn-Bhavya%20Dubey-blue?style=flat&logo=linkedin"> </a> <a href="mailto:bhavyadubey96@gmail.com"> <img src="https://img.shields.io/badge/Email-bhavyadubey96@gmail.com-red?style=flat&logo=gmail"> </a> </p>
-<p align="center"> ⭐ If you're building high-impact systems or scaling execution, let's talk.⭐ </p> 
+## Let’s Connect
+
+If you're working on:
+- Scaling execution across teams  
+- Fixing unclear or messy workflows  
+- Building systems that improve efficiency  
+
+I’d love to collaborate or contribute.
+
+<p align="left">
+  <a href="https://linkedin.com/in/bhavya-dubey-0b06b516a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Message%20Me-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:bhavyadubey96@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
+
+<p align="center">
+  ⭐ Always open to interesting problems, sharp teams, and high-impact work⭐
+</p>
